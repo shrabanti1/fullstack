@@ -43,5 +43,8 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=14.20.1"
   }
 }
